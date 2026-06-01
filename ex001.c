@@ -8,10 +8,10 @@ int  main(){
 
 
     //printf("a idade dp %s é: %d\n",nome,idade);
-    printf("o nome é: %s\n",nome);
-    printf("Sua idade é: %d\n",idade);
-    printf("a altura é; %.2f\n",altura);
-    printf("a opcao é:%C\n",opcao);
+    printf("o nome e: %s\n",nome);
+    printf("Sua idade e: %d\n",idade);
+    printf("a altura e; %.2f\n",altura);
+    printf("a opcao e:%C\n",opcao);
 
 
     return 0;
